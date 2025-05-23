@@ -24,35 +24,6 @@ Al finalizar este workshop, serás capaz de:
 
 ---
 
-## 🗺️ Mapa de progresión de conocimientos
-
-### Bloque 1: Templates y Sintaxis Angular
-
-- [Interpolación](1-templates/1-interpolacion.md)
-- [Expresiones](1-templates/2-expresiones.md)
-- [Property binding](1-templates/3-property-binding.md)
-- [Event binding](1-templates/4-event-binding.md)
-- [Two-way binding](1-templates/5-two-way-binding.md)
-- [*ngIf](1-templates/6-ngif.md)
-- [*ngFor](1-templates/7-ngfor.md)
-- [Pipes](1-templates/8-pipes.md)
-
-### Bloque 2: Directivas Angular
-
-- [*ngIf avanzado](2-directives/1-ngif-avanzado.md)
-- [*ngFor avanzado](2-directives/2-ngfor-avanzado.md)
-- [*ngSwitch](2-directives/3-ngswitch.md)
-- [[ngClass]](2-directives/4-ngclass.md)
-- [[ngStyle]](2-directives/5-ngstyle.md)
-- [Directivas personalizadas](2-directives/6-directiva-personalizada.md)
-
-### Bloque 3: Pipes en Angular
-
-- [Pipes integrados](3-pipes/1-pipes-integrados.md)
-- [Pipes personalizados](3-pipes/2-pipes-personalizados.md)
-
----
-
 ## 📚 Rutas de aprendizaje y práctica guiada
 
 La ruta de aprendizaje está organizada en tres bloques temáticos.  
